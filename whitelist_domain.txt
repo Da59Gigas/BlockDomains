@@ -1,0 +1,2 @@
+theputtyverseprod.b-cdn.net
+ocsp.digicert.com
